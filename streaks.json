@@ -1,0 +1,12 @@
+{
+  "version": 1,
+  "enabled": true,
+  "threshold": 3,
+  "gray": "#909090",
+  "colors": [
+    { "min": 3, "color": "#FBC02D" },
+    { "min": 10, "color": "#FF9800" },
+    { "min": 30, "color": "#F44336" },
+    { "min": 100, "color": "#AB47BC" }
+  ]
+}
