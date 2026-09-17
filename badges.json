@@ -2,7 +2,7 @@
   "version": 1,
   "badges": {
     "badge_1": {
-      "title": "Этот человек участвовал в бета-тестах DiveGram",
+      "title": "Этот человек участвует в бета-тестах DiveGram",
       "image": "https://raw.githubusercontent.com/sdvgshni/kfkfkdfkkedk/main/badges/badge_1.png",
       "filled": false
     },
@@ -10,11 +10,16 @@
       "title": "Этот человек является одним из разработчиков DiveGram",
       "image": "https://raw.githubusercontent.com/sdvgshni/kfkfkdfkkedk/main/badges/badge_2.png",
       "filled": true
+    },
+    "badge_3": {
+      "title": "Этот человек является первым бета-тестером DiveGram",
+      "image": "https://raw.githubusercontent.com/sdvgshni/kfkfkdfkkedk/main/badges/badge_3.png",
+      "filled": true
     }
   },
   "users": {
     "1449798682": "badge_1",
-    "5454995128": "badge_1",
+    "5454995128": "badge_3",
     "1474610225": "badge_1",
     "1952520327": "badge_1",
     "1326973638": "badge_1",
